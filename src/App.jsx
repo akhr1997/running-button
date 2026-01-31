@@ -31,7 +31,7 @@ const App = () => {
   const gallery = [
     // ... (Your gallery data)
     {
-      url: "/images/IMG_3166.jpeg",
+      url: "/images/IMG_3166.png",
       caption:
         "A little preview of how pretty the sunset was the day I met you — beach sunset, just for you. Also, I had literally spent 1.5 days with this Rajasthani dude who followed me from Alleppey. We came to the party in Go-Paddle together and I royally ditched him after meeting you😭. Funny how a Rajasthani replaced a Rajasthani hehe",
     },
@@ -228,7 +228,7 @@ const App = () => {
             zIndex: 2,
           }}
         >
-          Our Beautiful Journey ✨
+          Our Journey so far... ✨
         </h1>
 
         {/* Slider */}
